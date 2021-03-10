@@ -4,9 +4,16 @@
         <title>YAWE Blog</title>
         <link>https://yawe.dev/blog</link>
         <description>YAWE Blog</description>
-        <lastBuildDate>Tue, 09 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[File uploads]]></title>
+            <link>https://yawe.dev/blog/file-uploads</link>
+            <guid>file-uploads</guid>
+            <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi everyone!]]></description>
+        </item>
         <item>
             <title><![CDATA[JSONata]]></title>
             <link>https://yawe.dev/blog/jsonata</link>
