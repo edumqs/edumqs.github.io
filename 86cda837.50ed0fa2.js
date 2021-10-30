@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{98:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Master keys","permalink":"/blog/masterkey"},{"title":"Welcome to YAWE","permalink":"/blog/welcome"}]}')}}]);
