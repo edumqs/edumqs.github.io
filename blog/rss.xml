@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>YAWE Blog</title>
-        <link>https://yawe.dev/blog</link>
-        <description>YAWE Blog</description>
+        <title>RESTED_DEV Blog</title>
+        <link>https://rested.dev/blog</link>
+        <description>RESTED_DEV Blog</description>
         <lastBuildDate>Wed, 10 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[File uploads]]></title>
-            <link>https://yawe.dev/blog/file-uploads</link>
+            <link>https://rested.dev/blog/file-uploads</link>
             <guid>file-uploads</guid>
             <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi everyone!]]></description>
         </item>
         <item>
             <title><![CDATA[JSONata]]></title>
-            <link>https://yawe.dev/blog/jsonata</link>
+            <link>https://rested.dev/blog/jsonata</link>
             <guid>jsonata</guid>
             <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi all!]]></description>
         </item>
         <item>
             <title><![CDATA[Importance of platforms like Reddit]]></title>
-            <link>https://yawe.dev/blog/redditimportance</link>
+            <link>https://rested.dev/blog/redditimportance</link>
             <guid>redditimportance</guid>
             <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello everyone!]]></description>
         </item>
         <item>
             <title><![CDATA[Master keys]]></title>
-            <link>https://yawe.dev/blog/masterkey</link>
+            <link>https://rested.dev/blog/masterkey</link>
             <guid>masterkey</guid>
             <pubDate>Tue, 26 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi all!]]></description>
         </item>
         <item>
-            <title><![CDATA[Welcome to YAWE]]></title>
-            <link>https://yawe.dev/blog/welcome</link>
+            <title><![CDATA[Welcome to RESTED_DEV]]></title>
+            <link>https://rested.dev/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hi and welcome to YAWE!]]></description>
+            <description><![CDATA[Hi and welcome to RESTED_DEV!]]></description>
         </item>
     </channel>
 </rss>
