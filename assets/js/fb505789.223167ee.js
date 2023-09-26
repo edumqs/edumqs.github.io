@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrested_landing_page=self.webpackChunkrested_landing_page||[]).push([[7543],{84889:e=>{e.exports=JSON.parse('{"label":"beginning","permalink":"/blog/tags/beginning","allTagsPath":"/blog/tags","count":1}')}}]);

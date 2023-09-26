@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrested_landing_page=self.webpackChunkrested_landing_page||[]).push([[4734],{52172:e=>{e.exports=JSON.parse('{"label":"reddit","permalink":"/blog/tags/reddit","allTagsPath":"/blog/tags","count":1}')}}]);
